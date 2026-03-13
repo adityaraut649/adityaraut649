@@ -1,5 +1,7 @@
-# Hi 👋 I'm Aditya Raut
 
+  <h1 align="center">Hi 👋 I'm Aditya Raut</h1>
+
+--
 🚀 Full Stack Developer | Java | Spring Boot | React
 
 I enjoy building scalable web applications and learning modern technologies.
@@ -48,9 +50,14 @@ I enjoy building scalable web applications and learning modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraut649&layout=compact)
 
+
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/aditya-raut-%E2%9A%A1-6b7988215/]
+<a href="https://www.linkedin.com/in/aditya-raut-%E2%9A%A1-6b7988215/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+
 
