@@ -52,5 +52,5 @@ I enjoy building scalable web applications and learning modern technologies.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Portfolio: https://yourportfolio.com
+- LinkedIn: [https://www.linkedin.com/in/aditya-raut-%E2%9A%A1-6b7988215/]
+
