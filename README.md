@@ -1,5 +1,7 @@
 
   <h1 align="center">Hi 👋 I'm Aditya Raut</h1>
+--
+<img src="https://i0.wp.com/blog.artsper.com/wp-content/uploads/2025/03/Isometric_Pixel_Art_by_Peterson_Freitas_enlarged_1.jpg?fit=1200%2C800&ssl=1"/>
 
 --
 🚀 Full Stack Developer | Java | Spring Boot | React
