@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi 👋 I'm Aditya Raut</h1>
---
+
 🚀 Full Stack Developer | Java | Spring Boot | React
 
 I enjoy building scalable web applications and learning modern technologies.
