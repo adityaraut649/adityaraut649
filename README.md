@@ -1,5 +1,5 @@
 
-   <h1 align="center">Hi 👋 I'm Aditya Raut</h1>
+<h1 align="center">Hi 👋 I'm Aditya Raut</h1>
 
 <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" width="100%" />
 
