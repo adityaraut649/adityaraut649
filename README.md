@@ -7,6 +7,14 @@
 
 I enjoy building scalable web applications and learning modern technologies.
 
+
+<p align="left">
+  <a href="https://twitter.com/A9449Raut" target="blank">
+    <img src="https://img.shields.io/twitter/follow/A9449Raut?logo=twitter&style=for-the-badge" alt="A9449Raut" />
+  </a>
+</p>
+
+
 ---
 
 ## 🚀 What I'm Working On
