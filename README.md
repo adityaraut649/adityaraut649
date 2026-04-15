@@ -14,7 +14,7 @@ I enjoy building scalable web applications and learning modern technologies.
   </a>
 </p>
 
-
+- 📫 Reach me at: *vraut3468@gmail.com*
 ---
 
 ## 🚀 What I'm Working On
@@ -68,6 +68,6 @@ I enjoy building scalable web applications and learning modern technologies.
 <a href="https://www.linkedin.com/in/aditya-raut-%E2%9A%A1-6b7988215/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-
-
-
+<a href="https://twitter.com/A9449Raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pandas03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://instagram.com/adityaraut09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
