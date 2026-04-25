@@ -39,7 +39,8 @@ I enjoy building scalable web applications and learning modern technologies.
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
+![Node.js](https://img.shields.io/badge/NODE%20JS-3C873A?style=for-the-badge)
+![Express](https://img.shields.io/badge/EXPRESS-444444?style=for-the-badge)
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
