@@ -17,6 +17,7 @@ I enjoy building scalable web applications and learning modern technologies.
 
 - 📫 Reach me at: *vraut3468@gmail.com*
 - *22, engineer. I like to build*.
+- *Open for Opportunity*  
 ---
 
 ## 🚀 What I'm Working On
