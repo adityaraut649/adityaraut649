@@ -35,6 +35,7 @@ I enjoy building scalable web applications and learning modern technologies.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
