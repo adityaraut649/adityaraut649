@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="mario banner" width="100%" />
 
-I enjoy building scalable web applications and learning modern technologies.
+#### *A Backend focused Full Stack Developer.*
 
 <p align="left">
   <a href="https://twitter.com/A9449Raut" target="blank">
