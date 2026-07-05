@@ -11,10 +11,12 @@
   </a>
 </p>
 
-- Reach me at: *vraut3468@gmail.com*
-- *22, engineer. I like to build*.
-- *Open for Opportunity*
-- *Love to Contribute Open Source**
+
+
+▸ **Reach me at:** **vraut3468@gmail.com**<br>
+▸ **22, engineer. I like to build**.<br>
+▸ **Open for Opportunity**<br>
+▸ **Love to Contribute Open Source**<br>
   
 
 <h3 align="left">Connect with me:</h3>
