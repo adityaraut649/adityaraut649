@@ -14,6 +14,7 @@
 
 
 ▸ **Reach me at:** **vraut3468@gmail.com**<br>
+▸ **Practicing [Codeforces](https://codeforces.com/profile/pandas04)**<br>
 ▸ **22, engineer. I like to build**.<br>
 ▸ **Open for Opportunity**<br>
 ▸ **Love to Contribute Open Source**<br>
