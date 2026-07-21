@@ -26,11 +26,9 @@
 <a href="https://twitter.com/A9449Raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pandas03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://instagram.com/adityaraut09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-
 <br>
+<h3>Tech Stack ⚙️: <h3>
 <p>
-  <strong>Tech Stack ⚙️</strong>
-  &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-161B22?style=flat&logo=springboot&logoColor=6DB33F" />
   <img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
