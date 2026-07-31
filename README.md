@@ -5,14 +5,6 @@
 
 #### *A Backend focused Full Stack Developer.*
 
-<p align="left">
-  <a href="https://twitter.com/A9449Raut" target="blank">
-    <img src="https://img.shields.io/twitter/follow/A9449Raut?logo=twitter&style=for-the-badge" alt="A9449Raut" />
-  </a>
-</p>
-
-
-
 ▸ **Reach me at:** **vraut3468@gmail.com**<br>
 ▸ **Practicing [Codeforces](https://codeforces.com/profile/pandas04)**<br>
 ▸ **22, engineer. I like to build**.<br>
