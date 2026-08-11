@@ -33,6 +33,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
   <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" />
   <img alt="Gemini" src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" />
